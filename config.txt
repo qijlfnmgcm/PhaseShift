@@ -1,0 +1,6 @@
+[SETTINGS]
+cuda_num = 5
+
+[HYPER_PARAMETERS]
+seed = 42
+optimizer = Adam
